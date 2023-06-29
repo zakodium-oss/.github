@@ -1,0 +1,6 @@
+{
+  "name": "Deploy TypeDoc on GitHub pages",
+  "description": "Build documentation using TypeDoc and deploy it on GitHub pages",
+  "iconName": "ts",
+  "categories": ["TypeScript"]
+}
